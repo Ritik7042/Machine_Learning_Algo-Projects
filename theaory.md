@@ -13,3 +13,4 @@ How it works: In this algorithm, we do not have any target or outcome variable t
 How it works: Using this algorithm, the machine is trained to make specific decisions. It works this way: the machine is exposed to an environment where it trains itself continually using trial and error. This machine learns from past experience and tries to capture the best possible knowledge to make accurate business decisions. Example of Reinforcement Learning: Markov Decision Process
 
 Sseaborn definition :- seaborn is a library mostly used for statistical plotting in Python. It is built on top of Matplotlib and provides beautiful default styles and color palettes to make statistical plots more attractive.
+![1](https://user-images.githubusercontent.com/90079986/194707901-30f40622-66e2-4053-a3bb-586e00ace724.jpg)
